@@ -1,15 +1,15 @@
-﻿using System;
-using System.Linq;
-using System.Text;
-
+﻿
 namespace CrackingTheCode
 {
     class Program
     {
-        static void Main(string[] args)
+        static void Main()
         {
-
-            CTC.AreAnagramsTest();
+            //CTC.RemoveDuplicatesTest();
+            //CTC.AreAnagramsTest();
+            //CTC.ReplaceStringTesting();
+            //CTC.UniqueTesting();
+            CTC.RotateMatrixTest();
         }
     }
 }
